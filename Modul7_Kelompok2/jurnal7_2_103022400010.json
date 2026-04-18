@@ -1,0 +1,27 @@
+{
+    "watchlistName": "Amba",
+    "createdBy": "Kelompok 02",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "Amba Lost in Space",
+            "year": 1969,
+            "genre": "Action",
+            "rating": 8.7
+        },
+        {
+            "id": "F102",
+            "title": "Amba in Borderland",
+            "year": 2069,
+            "genre": "Thriller",
+            "rating": 8.5
+        },
+        {
+            "id": "F103",
+            "title": "Amba: Ragnamok",
+            "year": 1869,
+            "genre": "Post-Apocalyptic",
+            "rating": 8.4
+        }
+    ]
+}

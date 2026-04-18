@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
 
-public class Film
+public class Movies
 {
     public string title { get; set; }
     public string genre { get; set; }
@@ -21,7 +21,7 @@ public class FilmFavorit_103022400010
             @"D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\jurnal7_1_103022400010.json"
         );
         
-        Film flm = JsonSerializer.Deserialize<Film>(jsonString);
+        Movies flm = JsonSerializer.Deserialize<Movies>(jsonString);
 
         Console.WriteLine("===== Data Film Favorit =====");
         Console.WriteLine("Judul: " + flm.title);
