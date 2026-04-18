@@ -7,5 +7,8 @@
 
         Watchlist_103022400021 watchlist = new Watchlist_103022400021();
         watchlist.ReadJSON();
+
+        GenreDictionary_103022400021 genreDictionary = new GenreDictionary_103022400021();
+        genreDictionary.ReadJSON();
     }
 }
