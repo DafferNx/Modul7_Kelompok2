@@ -1,0 +1,15 @@
+{
+    "GenreDictionary": {
+        "category": "Movie Genre",
+        "GenreInfo": {
+            "id": "G01",
+            "name": "Science Horror REAL 100%",
+            "description": "Genre that explores Science and Horror with real experience by director",
+            "popularMovies": [
+                "Ambatellar",
+                "The Maxx",
+                "Incantation"
+            ]
+        }
+    }
+}
