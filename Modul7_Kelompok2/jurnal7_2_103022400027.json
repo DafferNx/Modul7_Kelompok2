@@ -1,0 +1,27 @@
+{
+    "watchlistName": "New Year New Big Big",
+    "createdBy": "Kelompok 02",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "Void in the Space",
+            "year": 1999,
+            "genre": "Scifi",
+            "rating": 8.9
+        },
+        {
+            "id": "F102",
+            "title": "F1",
+            "year": 2025,
+            "genre": "Sport",
+            "rating": 9.5
+        },
+        {
+            "id": "F103",
+            "title": "Gang Hood N Story",
+            "year": 2019,
+            "genre": "Family",
+            "rating": 8.4
+        }
+    ]
+}
