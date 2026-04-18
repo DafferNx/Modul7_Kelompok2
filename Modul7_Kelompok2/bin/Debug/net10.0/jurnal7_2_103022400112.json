@@ -1,0 +1,27 @@
+{
+    "watchlistName": "Punya Filbert",
+    "createdBy": "Kelompok 02",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "Avenger Doomsday",
+            "year": 2026,
+            "genre": "Action",
+            "rating": 8.7
+        },
+        {
+            "id": "F102",
+            "title": "Project Hail Mary",
+            "year": 2026,
+            "genre": "Sci Fi",
+            "rating": 9.5
+        },
+        {
+            "id": "F103",
+            "title": "Spider-Man: Nyasar",
+            "year": 2027,
+            "genre": "Superhero",
+            "rating": 10
+        }
+    ]
+}
