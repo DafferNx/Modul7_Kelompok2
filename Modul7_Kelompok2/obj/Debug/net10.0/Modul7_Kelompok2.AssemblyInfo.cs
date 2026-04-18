@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modul7_Kelompok2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f330ff0cfe1413658b7c33a483c48bead180138d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e150b3ee0a0d504596e24298c71e5eec43ff4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modul7_Kelompok2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modul7_Kelompok2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

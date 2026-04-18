@@ -16,7 +16,7 @@ public class FilmFavorit_103022400021
 {
 	public void ReadJSON()
 	{
-		string json = File.ReadAllText(@"D:\Modul7_Kelompok2\Modul7_Kelompok2/jurnal7_1_103022400021.json");
+		string json = File.ReadAllText(@"D:\Modul7_Kelompok2\Modul7_Kelompok2\bin\Debug\net10.0\jurnal7_1_103022400021.json");
 
 		FilmFavorit fav = JsonSerializer.Deserialize<FilmFavorit>(json);
 

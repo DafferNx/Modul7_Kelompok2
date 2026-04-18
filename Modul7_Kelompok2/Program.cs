@@ -4,5 +4,8 @@
     {
         FilmFavorit_103022400021 filmFavorit = new FilmFavorit_103022400021();
         filmFavorit.ReadJSON();
+
+        Watchlist_103022400021 watchlist = new Watchlist_103022400021();
+        watchlist.ReadJSON();
     }
 }
