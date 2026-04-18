@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿FilmFavorit_103022400027_fadhil film = new FilmFavorit_103022400027_fadhil();
+film.ReadJSON();
