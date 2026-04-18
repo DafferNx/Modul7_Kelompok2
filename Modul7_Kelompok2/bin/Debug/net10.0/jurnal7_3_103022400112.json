@@ -1,14 +1,14 @@
 {
     "GenreDictionary": {
-        "category": "Movie Genre",
+        "category": "Sci Fi",
         "GenreInfo": {
             "id": "G01",
             "name": "Science Fiction",
             "description": "Genre that explores futuristic concepts such as advanced technology, space exploration, and time travel.",
             "popularMovies": [
                 "Interstellar",
-                "The Matrix",
-                "Inception"
+                "Project Hail Mary",
+                "Star Wars"
             ]
         }
     }
