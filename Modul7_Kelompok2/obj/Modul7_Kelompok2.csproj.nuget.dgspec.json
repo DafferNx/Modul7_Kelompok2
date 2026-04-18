@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj": {}
+    "D:\\MODUL7\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj": {}
   },
   "projects": {
-    "D:\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj": {
+    "D:\\MODUL7\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj",
+        "projectUniqueName": "D:\\MODUL7\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj",
         "projectName": "Modul7_Kelompok2",
-        "projectPath": "D:\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj",
+        "projectPath": "D:\\MODUL7\\Modul7_Kelompok2\\Modul7_Kelompok2\\Modul7_Kelompok2.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Modul7_Kelompok2\\Modul7_Kelompok2\\obj\\",
+        "outputPath": "D:\\MODUL7\\Modul7_Kelompok2\\Modul7_Kelompok2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

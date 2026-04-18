@@ -1,0 +1,15 @@
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.AssemblyInfoInputs.cache
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.AssemblyInfo.cs
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.csproj.CoreCompileInputs.cache
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.sourcelink.json
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\bin\Debug\net10.0\Modul7_Kelompok2.exe
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\bin\Debug\net10.0\Modul7_Kelompok2.deps.json
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\bin\Debug\net10.0\Modul7_Kelompok2.runtimeconfig.json
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\bin\Debug\net10.0\Modul7_Kelompok2.dll
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\bin\Debug\net10.0\Modul7_Kelompok2.pdb
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.dll
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\refint\Modul7_Kelompok2.dll
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.pdb
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\Modul7_Kelompok2.genruntimeconfig.cache
+D:\MODUL7\Modul7_Kelompok2\Modul7_Kelompok2\obj\Debug\net10.0\ref\Modul7_Kelompok2.dll
